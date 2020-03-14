@@ -16,6 +16,12 @@
       "image": "fa-linkedin",
       "url": "https://www.linkedin.com/in/payal-mehta95",
       "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/payu95/",
+      "style": "socialicons"
     }
   ],
   "instaQuerry": "/?__a=1",
