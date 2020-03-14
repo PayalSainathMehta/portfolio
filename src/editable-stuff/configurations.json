@@ -24,6 +24,8 @@
       "style": "socialicons"
     }
   ],
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "payu95",
   "instaQuerry": "/?__a=1",
   "showInstaProfilePic": true,
   "aboutDev": "Currently pursuing Master's in Computer Science at Stony Brook University. My vision is to build software and applications to solve all kinds of problems faced by the human race. For me, being a programmer is like being a magician. We can create things people dream of!",
