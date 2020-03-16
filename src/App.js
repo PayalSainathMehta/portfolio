@@ -1,5 +1,5 @@
 import React, { Component, Fragment } from "react";
-import { browserHistory } from 'react-router';
+// import { browserHistory } from 'react-router';
 import MainBody from "./components/MainBody";
 import AboutMe from "./components/AboutMe";
 import Project from "./components/Project";
@@ -13,10 +13,10 @@ class App extends Component {
   }
 
 
-export default class YourComponent extends Component {
-    handleClick = () => {
-        browserHistory.push('/portfolio');
-    };
+// export default class YourComponent extends Component {
+//     handleClick = () => {
+//         browserHistory.push('/portfolio');
+//     };
 
   render() {
     return (
