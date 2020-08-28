@@ -51,7 +51,7 @@ class AboutMe extends Component {
               <div className="col-5 d-none d-lg-block align-self-center">
                 <img
                   className="border border-secondary rounded-circle"
-                  src={this.state.instaProfilePic}
+<!--                   src={this.state.instaProfilePic} -->
                   alt="profilepicture"
                 />
               </div>
